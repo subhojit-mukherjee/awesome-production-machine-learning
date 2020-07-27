@@ -10,7 +10,7 @@
 
 This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production machine learning.
 
-## Quick links to sections in this page
+### Quick links to sections in this page
 
 | | | |
 |-|-|-|
